@@ -1,0 +1,15 @@
+{
+  "workbench.colorTheme": "Default Dark Modern",
+  "workbench.startupEditor": "none",
+  "editor.fontSize": 14,
+  "editor.fontFamily": "'Cascadia Code', 'Consolas', monospace",
+  "editor.minimap.enabled": false,
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "explorer.compactFolders": false,
+  "python.defaultInterpreterPath": "/usr/bin/python3",
+  "python.terminal.activateEnvironment": true,
+  "terminal.integrated.defaultProfile.linux": "bash"
+}
